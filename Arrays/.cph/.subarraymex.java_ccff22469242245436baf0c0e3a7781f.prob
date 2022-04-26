@@ -1,0 +1,1 @@
+{"name":"Local: subarraymex","url":"e:\\Programming\\Java\\DSA\\Arrays\\subarraymex.java","tests":[{"id":1643358315503,"input":"3\n3 3 3\n4 3 2\n5 4 5","output":"0 1 2\n0 1 0 1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\Java\\DSA\\Arrays\\subarraymex.java","group":"local","local":true}

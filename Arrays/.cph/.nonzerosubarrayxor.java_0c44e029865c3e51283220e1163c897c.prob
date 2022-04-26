@@ -1,0 +1,1 @@
+{"name":"Local: nonzerosubarrayxor","url":"e:\\Programming\\Java\\DSA\\Arrays\\nonzerosubarrayxor.java","tests":[{"id":1643359022649,"input":"3\n1\n6\n16","output":"1\n1 3 1 7 1 3\n1 3 1 7 1 3 1 1 5 1 3 1 7 1 3 1 3 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\Java\\DSA\\Arrays\\nonzerosubarrayxor.java","group":"local","local":true}
